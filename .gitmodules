@@ -1,3 +1,6 @@
 [submodule "css-fundamentals"]
 	path = css-fundamentals
 	url = https://github.com/Akshay-Tarde/css-fundamentals.git
+[submodule "responsiveness-kp"]
+	path = responsiveness-kp
+	url = https://github.com/Akshay-Tarde/responsiveness-kp.git
