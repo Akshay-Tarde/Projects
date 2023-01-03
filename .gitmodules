@@ -4,3 +4,6 @@
 [submodule "responsiveness-kp"]
 	path = responsiveness-kp
 	url = https://github.com/Akshay-Tarde/responsiveness-kp.git
+[submodule "steppingupstyle"]
+	path = steppingupstyle
+	url = https://github.com/Akshay-Tarde/steppingupstyle.git
