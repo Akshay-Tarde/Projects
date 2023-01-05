@@ -7,3 +7,6 @@
 [submodule "steppingupstyle"]
 	path = steppingupstyle
 	url = https://github.com/Akshay-Tarde/steppingupstyle.git
+[submodule "kp-last-module"]
+	path = kp-last-module
+	url = https://github.com/Akshay-Tarde/kp-last-module.git
