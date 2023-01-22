@@ -13,3 +13,6 @@
 [submodule "frontendmentor"]
 	path = frontendmentor
 	url = https://github.com/Akshay-Tarde/frontendmentor.git
+[submodule "wesbos"]
+	path = wesbos
+	url = https://github.com/Akshay-Tarde/wesbos.git
