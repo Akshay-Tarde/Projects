@@ -16,3 +16,6 @@
 [submodule "wesbos"]
 	path = wesbos
 	url = https://github.com/Akshay-Tarde/wesbos.git
+[submodule "react"]
+	path = react
+	url = https://github.com/Akshay-Tarde/react.git
